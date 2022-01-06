@@ -1,0 +1,21 @@
+{
+    "name": "qr-cli",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "bin": {
+        "qr-cli": "./bin/cli.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "base64-min": "^2.0.0",
+        "cac": "^6.7.12",
+        "commander": "^8.3.0",
+        "qrcode": "^1.5.0"
+    }
+}
