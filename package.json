@@ -1,10 +1,10 @@
 {
-    "name": "qr-cli",
+    "name": "qrcode-cli",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "bin": {
-        "qr-cli": "./bin/cli.js"
+        "qrcode-cli": "./bin/cli.js"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
